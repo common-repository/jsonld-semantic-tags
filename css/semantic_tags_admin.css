@@ -1,0 +1,16 @@
+
+#edittag .form-field  label{
+	display: block;
+}
+
+
+.st_divider 
+{ 
+    background: url(divider.jpg) repeat-x; 
+    height:2px;
+	width:100%;
+}
+
+.form-field input[type=checkbox] {
+	width: inherit;
+}
